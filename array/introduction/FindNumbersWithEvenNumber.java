@@ -1,4 +1,4 @@
-package array;
+package array.introduction;
 
 public class FindNumbersWithEvenNumber {
     public static int findNumbers(int[] nums) {
